@@ -16,3 +16,6 @@ This real-time chat application enables seamless communication between users, po
 
 ### server connection
 - ![Image](https://github.com/user-attachments/assets/3531e3e7-e96f-420b-b5d1-b4475b2b4ffc)
+
+### logic append
+- ![Image](https://github.com/user-attachments/assets/b73fa518-c250-43d7-8be7-2787c6c87abd)
